@@ -11,7 +11,7 @@ namespace MaPremiereApplication
         static void Main(string[] args)
         {
             /* permet d'afficher du texte sur la console */
-            Console.WriteLine("Salut à toi en train de me lire !")
+            Console.WriteLine("Salut à toi en train de me lire !");
         }
     }
 }
